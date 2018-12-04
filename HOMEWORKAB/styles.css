@@ -1,0 +1,54 @@
+body {
+    margin-left: 200px;
+    font-family: "Ma Super Fonte", Helvetica, Arial, sans-serif;
+    background-color: pink;
+    color: cadetblue;
+}
+
+h1{
+    color: lightseagreen;
+}
+
+h3{
+    color: hotpink;
+}
+
+
+ul.navbar {
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    width: 150px;
+    margin: 10px;
+    padding: 3px;
+    border-right: 1.5px solid rebeccapurple;
+    border-left: 8px solid blue;
+    border-bottom: 1px solid red;
+    border-top: 1px solid yellow;
+}
+
+
+ul.navbar li {
+    margin: 5px 0;
+    padding: 5px;
+    border-right: 1px solid #17252a;
+    border-top: 1px solid #17252a;
+    border-left: 10px solid #17252a;
+    border-bottom: 1px solid #17252a;
+}
+
+ul.navbar a {
+    text-decoration: none;
+}
+
+p.p1{
+    color: dodgerblue;
+}
+p.p2{
+    color: red;
+}
+
+li.c1{
+    background-color: yellow;
+}
+
